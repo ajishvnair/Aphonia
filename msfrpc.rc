@@ -1,0 +1,2 @@
+#!/bin/bash
+load msgrpc User=msf Pass=msf@123

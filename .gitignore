@@ -1,0 +1,21 @@
+# Loging
+.log
+
+# Development
+.DS_Store
+.jest-*
+lib
+.env
+
+# Dependencies
+node_modules
+
+# Build
+dist/*
+build/*
+
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
