@@ -28,7 +28,7 @@ to run the app from source code:
 
 ```bash
 # Download source code
-git clone https://github.com/WayzDev/Aphonia.git
+git clone https://github.com/ajishvnair/Aphonia.git
 
 # Install dependencies and run Aphonia
 cd Aphonia
